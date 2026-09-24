@@ -21,8 +21,8 @@ This is the orchestration and multi-service parent repository for the H.Essers A
 
 ## Getting Started
 
-### 1. Cloning the Repository
+### Cloning the Repository
 Because this project utilizes Git submodules, you must clone it with the recursive flag:
 
 ```bash
-git clone --recurse-submodules [https://github.com/HopeyCodeDS/H.Essers-Platform-Root.git](https://github.com/HopeyCodeDS/H.Essers-Platform-Root.git)
+git clone --recurse-submodules https://github.com/HopeyCodeDS/H.Essers-Platform-Root.git
