@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/HopeyCodeDS/automated-label-detection-and-matching-backend.git
+[submodule "ocr-service"]
+	path = ocr-service
+	url = https://github.com/HopeyCodeDS/automated-label-detection-and-matching-OCRservice.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/HopeyCodeDS/automated-label-detection-and-matching-frontend.git
